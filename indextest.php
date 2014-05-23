@@ -89,6 +89,6 @@ $apicaller = new RClubAPI($apihost, $authid,$apikey);
 //$apicaller->getCatchAllAcount() ;
 //$apicaller->activateCatchAllAcount() ;
 //$apicaller->deactivateCatchAllAcount() ;
-$apicaller->getDNSRecords() ;
+//$apicaller->getDNSRecords() ;
 
 ?>
